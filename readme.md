@@ -8,7 +8,7 @@ I'm Aashish, a passionate developer focused on mastering backend development ðŸš
 
 ### Base URL
 The base URL for the API is:
-
+https://aashishinventory.up.railway.app/
 ### Authentication Endpoints
 
 #### 1. **Register a User**
